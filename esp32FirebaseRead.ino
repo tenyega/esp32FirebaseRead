@@ -21,11 +21,11 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "Yega"
-#define WIFI_PASSWORD "Freetibet"
+#define WIFI_SSID "*******"
+#define WIFI_PASSWORD "********"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyArqjm6XJ5QydLO78mahTz3bXNpUQWa9iE"
+#define API_KEY "***********************"
 
 // Insert RTDB URLefine the RTDB URL */
 #define DATABASE_URL "https://firstfb-48a7c-default-rtdb.europe-west1.firebasedatabase.app/" 
